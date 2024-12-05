@@ -70,6 +70,11 @@ Ao analisar mais profundamente nossa base de dados, identificamos a presença de
 - "Gender" – "Genero"
 - "Exam_Score" – "Pontuacao_Final"
 
+Mais tarde utilizamos a biblioteca `ydata-profiling` para gerar um relatório de simples visualização, a fim de gerar algumas ideias para a nossa análise. O arquivo se encontra em html com o nome 
+[relatorio_student_performance.html](relatorio_student_performance.html). Portanto decidimos realizar as seguintes análises: 
+
+
+
 ---
 
 ## ANÁLISES REALIZADAS
