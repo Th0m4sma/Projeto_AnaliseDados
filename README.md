@@ -77,14 +77,13 @@ A partir da leitura do relatório, identificamos diversas questões relevantes a
 1. **Comparação de desempenho por gênero:** Avaliar as diferenças de desempenho entre participantes de diferentes gêneros no exame.
 2. **Impacto das horas de sono:** Analisar como a quantidade de horas de sono influencia o desempenho dos participantes.
 3. **Influência das horas de estudo:** Investigar a relação entre o tempo dedicado ao estudo e os resultados obtidos no exame.
-4. **Comparação entre tipos de ensino:** Entender e comparar o desempenho de participantes provenientes de diferentes sistemas ou métodos de ensino.
+4. **Comparação entre tipos de ensino:** Entender e comparar o desempenho de participantes provenientes de diferentes sistemas de ensino.
 5. **Efeito da presença em aulas:** Verificar se a frequência nas aulas realmente influencia o desempenho dos alunos.
 6. **Desempenho e motivação:** Analisar como diferentes níveis de motivação afetam o desempenho dos participantes.
-7. **Perfil dos maiores pontuadores:** Desenvolver uma análise sobre os 150 participantes com as maiores pontuações no exame final, a fim de identificar fatores ou hábitos comuns entre eles.
+7. **Perfil dos maiores pontuadores:** Desenvolver uma análise sobre os 150 participantes com as maiores pontuações no exame final.
 8. **Comparação de desempenho entre exames:** Analisar os fatores que contribuíram para o aumento ou diminuição das notas dos alunos quando comparados com o exame anterior, buscando identificar padrões ou hábitos que influenciam a melhoria ou piora no desempenho.
 
 Essas análises serão fundamentais para entender os principais fatores que impactam o desempenho dos participantes e fornecer insights valiosos para futuras decisões ou intervenções.
-
 
 ---
 
